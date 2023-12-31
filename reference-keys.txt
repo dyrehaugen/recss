@@ -1,6 +1,7 @@
 economics
 economic-sectors
 auto-industry
+consultancy
 food
 food-monopolies
 climate-smart-agriculture
